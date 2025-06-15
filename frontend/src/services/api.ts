@@ -1,6 +1,6 @@
 import { Task } from '@/types/Task';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = '/api';
 
 // Helper function to get auth header
 const getAuthHeader = () => {
